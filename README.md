@@ -12,14 +12,9 @@ This project is intended for learning, demos, and authorized testing only.
 - Attempts CVE lookups via NVD when available
 - JSON report output (example included)
 
-
----
-
 ## Requirements
 
 - Python 3.8+
-
----
 
 ## Usage
 
