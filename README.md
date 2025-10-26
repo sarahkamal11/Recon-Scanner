@@ -1,4 +1,4 @@
-# Py Recon Scanner
+# Recon Scanner
 
 Python vulnerability recon tool that uses TCP port scanning, banner grabbing, basic CVE lookups, and JSON report generation.  
 This project is intended for learning, demos, and authorized testing only.
